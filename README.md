@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&desc=
-👋%20Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.%20🚀&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer%E2%9A%99&desc=%F0%9F%91%8B%20Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.%20%F0%9F%9A%80&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40" />
 
 
 <div align=left>
