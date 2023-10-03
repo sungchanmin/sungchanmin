@@ -2,7 +2,6 @@
 <h4 align=center>안녕하세요. 백엔드 엔지니어 성찬민입니다.🚀</h4>
 <br>
 
-## 🔨 Tech Stacks
 <div align=center>
   <h2>🛠️ Back-End</h2>
   <h4>🌱Main</h4>
