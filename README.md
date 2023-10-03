@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙%20using%20JAVA%20and%20Spring😊&fontSize=30&fontColor=ffffff&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙%20using%20JAVA%20and%20Spring&fontSize=30&fontColor=ffffff&fontAlignY=35"/>
 <br>
 안녕하세요. 백엔드 엔지니어 성찬민입니다. 🚀
   <img src="https://img.shields.io/badge/behonestway@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
