@@ -38,6 +38,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=dracula" width="55%"/>
+  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=dracula" width="45%"/>
 </p>
