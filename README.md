@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&fontSize=30&fontColor=ffffff&fontAlignY=35"/>
-<h4 align=right>안녕하세요. 백엔드 엔지니어 성찬민입니다🚀</h4>
+<h4 align=center>안녕하세요. 백엔드 엔지니어 성찬민입니다.🚀</h4>
 <br>
 
-## 🔨 STACKS
+## 🔨 Tech Stacks
 <div align=center>
+  <h2>🛠️ Back-End</h2>
+  <h4>🌱Main</h4>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
