@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=Backend%20Engineer⚙&desc=안녕하세요.%20백엔드%20엔지니어%20성찬민입니다.🚀&fontSize=40&descSize=20&fontColor=ffffff&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=250&section=header&text=Backend%20Engineer⚙&desc=안녕하세요.%20백엔드%20엔지니어%20성찬민입니다.🚀&fontSize=40&descSize=20&fontColor=ffffff&fontAlignY=35"/>
 
 <div align=center>
   <h2>🛠️ Back-End</h2>
@@ -38,6 +38,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula" width="35%" />
+  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=dracula" width="45%"/>
 </p>
