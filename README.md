@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=header&text=&fontSize=20" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Sung%20 Chanmin& desc=I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.&fontSize=60&descSize=25&fontColor=ffffff&fontAlignY=20" />
+<br>
 # 👋 Hi there.
 
 I'm Backend Engineer using JAVA and Spring.
