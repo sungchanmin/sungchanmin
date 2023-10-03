@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&desc=안녕하세요.%20백엔드%20엔지니어%20성찬민입니다.🚀&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gray&height=200&section=header&text=Backend%20Engineer⚙&desc=안녕하세요.%20백엔드%20엔지니어%20성찬민입니다.🚀&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40"/>
 
 <div align=left>
   <h2>🛠️ Stacks</h2>
@@ -30,11 +30,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  <br>
-
-
 </div>
+
+<br><br>
 
 <p align="center">
   <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula" width="45%" />
