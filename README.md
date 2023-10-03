@@ -37,5 +37,8 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=dracula" width="450" />
+  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dracula" width="450" />
+</p>
+
