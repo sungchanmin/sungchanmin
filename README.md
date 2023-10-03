@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙%20using%20JAVA%20and%20Spring😊&fontSize=30&fontColor=ffffff&fontAlignY=35"/>
 <br>
-# 👋 Hi there.
+👋 Hi there. I'm Backend Engineer using JAVA and Spring. 🚀
 
-I'm Backend Engineer using JAVA and Spring.
-🚀
+
 
 ## 🔨 STACKS
 <div align=center>
@@ -30,11 +29,14 @@ I'm Backend Engineer using JAVA and Spring.
   <br><br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
+
 
 <br>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=dark )  
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=dark)
+
+</div>
