@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&fontSize=30&fontColor=ffffff&fontAlignY=35"/>
-<h4 align=center>안녕하세요. 백엔드 엔지니어 성찬민입니다.🚀</h4>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&desc=안녕하세요.%20백엔드%20엔지니어%20성찬민입니다.🚀&fontSize=30&descSize=30&fontColor=ffffff&fontAlignY=35"/>
 
 <div align=center>
   <h2>🛠️ Back-End</h2>
