@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&desc=
-👋%20Hi%20there!&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&desc=
-👋%20Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.%20🚀&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40" />
-
-
+Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40" />
+👋%20Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.%20🚀
 <div align=left>
   <h2>🛠️ Stacks</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
