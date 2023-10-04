@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header&text=Backend%20Engineer⚙&desc=👋%20Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.%20🚀&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=40" />
 
-<div align=left>
-  <h2>🛠️ Stacks</h2>
+<h2>🛠️ Stacks</h2>
+<div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
