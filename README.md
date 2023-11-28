@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=Backend%20Engineer⚙&desc=👋%20Hi%20there!%20I'm%20Backend%20Engineer%20using%20JAVA%20and%20Spring.%20🚀&fontSize=25&descSize=15&fontColor=ffffff&fontAlignY=30&descAlignY=45" />
-
 <h3 align=center>🛠️ TECH STACKS</h3>
 <div align=center>
   
