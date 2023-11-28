@@ -1,6 +1,19 @@
-<h3 align=center>🛠️ TECH STACKS</h3>
-<div align=center>
-  
+## Hey, I'm Chanmin 👋 
+I'm a 26 year old developer based in Korea, and I'm passionate about crafting digital experiences. 
+- Explore my [blog](https://velog.io/@chanmin) where I share insights and learnings.
+
+## 🔭 Current Endeavors 
+I am a constant learner in the technology world. Here's what I'm currently focused on:
+- I'm engaged in exciting fullstack projects.
+- I'm exploring Java and Spring to enhance my skill set.
+- I'm constantly trying to develop my algorithmic capabilities.
+
+## ✨ Project
+- BeginBegan
+- Dogroup
+- Give me house
+
+## 🛠️ Tech Stack
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -26,10 +39,12 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-</div>
-<br><br><br>
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=graywhite" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=graywhite" width="43%"/>
+  <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=algolia&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sungchanmin&show_icons=true&theme=algolia&hide_border=false" width="43%"/>
 </p>
+
+## 📫 Contact
+Reach out via email at [behonestway@gmail.com](behonestway@gmail.com). 
