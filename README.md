@@ -5,8 +5,8 @@ Explore my [blog](https://velog.io/@chanmin) where I share insights and learning
 ## 🔭 Current Endeavors 
 I am a constant learner in the technology world. Here's what I'm currently focused on:
 - I'm engaged in exciting fullstack projects.
-- I'm exploring Java and Spring to enhance my skill set.
-- I'm constantly trying to develop my algorithmic capabilities.
+- I'm exploring Java and Spring to enhance my skill set. [(📚Link)](https://velog.io/@chanmin/series/Java-%ED%95%9C-%EA%B1%B8%EC%9D%8C)
+- I'm constantly trying to develop my algorithmic capabilities. [(🧠Link)](https://github.com/sungchanmin/algorithm)
 
 ## ✨ Project
 - **🌱 BeginBegan (23.04 ~ 23.06)** : [비긴 비건, 비건 식당 검색, 예약 및 사전 결제 서비스](https://github.com/BeginVegan/BV-Document)
