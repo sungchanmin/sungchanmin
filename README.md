@@ -9,9 +9,9 @@ I am a constant learner in the technology world. Here's what I'm currently focus
 - I'm constantly trying to develop my algorithmic capabilities.
 
 ## ✨ Project
-- **🌱 BeginBegan (23.04 ~ 23.06) - [비긴 비건 : 비건 식당 검색, 예약 및 사전 결제 서비스](https://github.com/BeginVegan/BV-Document)**
-- **🧑🏻‍💻 Dogroup (22.10 ~ 22.12) - [개모임 : 개발자를 위한 스터디 챌린지 서비스](https://github.com/sungchanmin/dogroup)**
-- **🏡 Get me a house (22.03 ~ 22.06) - [구해줘 홈즈 : 얼굴 인식 방 대여 플랫폼](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4)**
+- **🌱 BeginBegan (23.04 ~ 23.06) : [비긴 비건, 비건 식당 검색, 예약 및 사전 결제 서비스](https://github.com/BeginVegan/BV-Document)**
+- **🧑🏻‍💻 Dogroup (22.10 ~ 22.12) : [개모임, 개발자를 위한 스터디 챌린지 서비스](https://github.com/sungchanmin/dogroup)**
+- **🏡 Get me a house (22.03 ~ 22.06) : [구해줘 홈즈, 얼굴 인식 방 대여 플랫폼](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4)**
 
 ## 🛠️ Tech Stack
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)
