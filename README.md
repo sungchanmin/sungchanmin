@@ -1,6 +1,6 @@
 ## Hey, I'm Chanmin 👋 
 I'm a 26 year old developer based in Korea, and I'm passionate about crafting digital experiences. 
-- Explore my [blog](https://velog.io/@chanmin) where I share insights and learnings.
+Explore my [blog](https://velog.io/@chanmin) where I share insights and learnings.
 
 ## 🔭 Current Endeavors 
 I am a constant learner in the technology world. Here's what I'm currently focused on:
