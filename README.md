@@ -11,7 +11,7 @@ I am a constant learner in the technology world. Here's what I'm currently focus
 ## ✨ Project
 - BeginBegan
 - Dogroup
-- Give me house
+- Get me a house
 
 ## 🛠️ Tech Stack
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)
