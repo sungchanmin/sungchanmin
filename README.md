@@ -1,19 +1,14 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hey, I'm Chanmin 
-I'm a 26 year old developer based in Korea, and I'm passionate about crafting digital experiences.  
-Explore my [blog](https://velog.io/@chanmin) where I share insights and learnings.  
-
-## 🔭 Current Endeavors 
-I am a constant learner in the technology world. Here's what I'm currently focused on:
-- I'm engaged in exciting fullstack projects.
+I am a constant learner. Here's what I'm currently focused on
 - I'm exploring Java and Spring to enhance my skill set. [(📚Link)](https://velog.io/@chanmin/series)
 - I'm constantly trying to develop my algorithmic capabilities. [(🧠Link)](https://github.com/sungchanmin/algorithm)
 
-## ✨ Project
-- **🌱 BeginVegan (23.04 ~ 23.06)** : [비긴 비건, 비건 식당 검색, 예약 및 사전 결제 서비스](https://github.com/BeginVegan/BV-Document)
-- **🧑🏻‍💻 Dogroup (22.10 ~ 22.12)** : [개모임, 개발자를 위한 스터디 챌린지 서비스](https://github.com/sungchanmin/dogroup)
-- **🏡 Get me a house (22.03 ~ 22.06)** : [구해줘 홈즈, 얼굴 인식 방 대여 플랫폼](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4)
+## 🚀 Projects
+- 🌱 BeginVegan (23.04 ~ 23.06) [🔗Link](https://github.com/BeginVegan/BV-Document)
+- 🧑🏻‍💻 Dogroup (22.10 ~ 22.12) [🔗Link](https://github.com/sungchanmin/dogroup)
+- 🏡 Get me a house (22.03 ~ 22.06) [🔗Link](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -37,6 +32,7 @@ I am a constant learner in the technology world. Here's what I'm currently focus
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=sungchanmin&layout=compact&theme=algolia&hide_border=false" width="40%" />
@@ -45,3 +41,4 @@ I am a constant learner in the technology world. Here's what I'm currently focus
 
 ## 📫 Contact
 Reach out via email at [behonestway@gmail.com](behonestway@gmail.com)
+-->
