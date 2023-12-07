@@ -4,8 +4,8 @@
 
 ## 🚀 Projects
 - <code style="color : gray">🌱 BeginVegan (23.04 ~ 23.06) [(🔗Link)](https://github.com/BeginVegan/BV-Document)</code><br>
-- <code style="color : gray">🧑🏻‍💻 Dogroup (22.10 ~ 22.12) [(🔗Link)](https://github.com/sungchanmin/dogroup) </code><br>
-- <code style="color : gray">🏡 Get me a house (22.03 ~ 22.06) [(🔗Link)](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4) </code>
+- <code style="color : gray">🧑🏻‍💻 Dogroup (22.10 ~ 22.12) [(🔗Link)](https://github.com/sungchanmin/dogroup)</code><br>
+- <code style="color : gray">🏡 Get me a house (22.03 ~ 22.06) [(🔗Link)](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4)</code>
 
 
 ## 🛠️ Tech Stacks
