@@ -1,12 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hey, I'm Chanmin
 - <code style="color : gray">I'm exploring Java and Spring to enhance my skill set.</code> [(📚Link)](https://velog.io/@chanmin/series)<br>
 - <code style="color : gray">I'm constantly trying to develop my algorithmic capabilities.</code> [(🧠Link)](https://github.com/sungchanmin/algorithm)
-
+<!--
 ## 🚀 Projects
 - <code style="color : gray">🌱 BeginVegan (23.04 ~ 23.06)</code> [(🔗Link)](https://github.com/BeginVegan/BV-Document)<br>
 - <code style="color : gray">🧑🏻‍💻 Dogroup (22.10 ~ 22.12)</code> [(🔗Link)](https://github.com/sungchanmin/dogroup)<br>
 - <code style="color : gray">🏡 Get me a house (22.03 ~ 22.06)</code> [(🔗Link)](https://user26.notion.site/9b30d47010ff4968b5a68ff0d069d490?pvs=4)
-
+-->
 
 ## 🛠️ Tech Stacks
 
