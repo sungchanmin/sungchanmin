@@ -2,8 +2,8 @@
 - I'm exploring Java and Spring to enhance my skill set. <!--[(📚Link)](https://velog.io/@chanmin/series)--><br>
 - I'm constantly trying to develop my algorithmic capabilities. [(🧠Link)](https://github.com/sungchanmin/algorithm)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Careers
-- <img src="https://recruit.ehyundai.com/images/icon/ci_img1.gif" height="18" /> _( 현대이지웰 고도화 개발팀 )_, **Web Developer** _(2024.01 ~ )_
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Careers  
+- <img src="https://recruit.ehyundai.com/images/icon/ci_img1.gif" height="18" /> _현대이지웰 고도화 개발팀_ - **Web Developer** _(2024.01 ~ )_
 
 
 <!--
