@@ -3,7 +3,7 @@
 - 𝘐'𝘮 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘮𝘺 𝘢𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘪𝘤 𝘤𝘢𝘱𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴. [(🧠𝘓𝘪𝘯𝘬 )](https://github.com/sungchanmin/algorithm)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Careers  
-- <img src="https://recruit.ehyundai.com/images/icon/ci_img1.gif" height="18" /> _현대이지웰 고도화 개발팀_ - 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 _(2024.01 ~ )_
+- <img src="https://recruit.ehyundai.com/images/icon/ci_img1.gif" height="18" /> _현대이지웰 고도화 개발팀_, 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 _(2024.01 ~ )_
 
 
 <!--
