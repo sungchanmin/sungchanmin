@@ -3,7 +3,8 @@
 𝘐'𝘮 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺 𝘵𝘳𝘺𝘪𝘯𝘨 𝘵𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘮𝘺 𝘢𝘭𝘨𝘰𝘳𝘪𝘵𝘩𝘮𝘪𝘤 𝘤𝘢𝘱𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴. [(🧠𝘓𝘪𝘯𝘬 )](https://github.com/sungchanmin/algorithm)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Careers  
-![logo](https://github.com/sungchanmin/sungchanmin/assets/97079985/2dcb8600-5231-453a-83a7-9b85e7ea128f) 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 _(2024.01 ~ )_
+<img src="https://github.com/user-attachments/assets/0d148750-0c47-4ade-ae87-d6c471b7cac7" height="25"/><br>
+𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 _(2024.01 ~ )_
 
 <!--
 ## 🚀 Projects
